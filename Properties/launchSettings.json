@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Conyntra.Chandone": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
